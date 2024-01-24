@@ -1,3 +1,43 @@
-body {
-    color: hotpink;
+* {
+    outline: 1px solid red;
+    }
+
+body{
+    background-color: #84bd92;
+}
+
+.logo{
+    max-width: 100%;
+    height: auto;
+    /* box-sizing: border-box; Ensures that border width is included in the total width */
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+.logo img {
+    border-radius: 0px 0px 20px 20px;
+    /* justify-content: center;    
+    align-items: center; */
+}
+
+.title{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.cursive-text{
+    color: #fabeca;  
+    text-align: center; 
+    font-family: Brush Script MT;
+    font-style: italic;
+    font-size: 1.8em;
+}
+
+.title-text{
+    /* color: #fabeca;   */
+    text-align: center; 
+    font-family: Bradley Hand;
+    font-size: 1.8em;
+    font-weight: bold;
 }
