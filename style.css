@@ -16,18 +16,19 @@ body{
 }
 
 .logo img {
-    border-radius: 0px 0px 20px 20px;
+    margin-top: 25px;
+    border-radius: 20px;
     /* justify-content: center;    
     align-items: center; */
 }
 
 .title{
-    margin-top: 30px;
-    margin-bottom: 45px;
+    margin-top: 45px;
+    margin-bottom: 35px;
 }
 
 .cursive-text{
-    color: #fabeca;  
+    color: #af7a85;  
     text-align: center; 
     font-family: Brush Script MT;
     font-style: italic;
@@ -37,8 +38,8 @@ body{
 .title-text{
     /* color: #fabeca;   */
     text-align: center; 
-    font-family: Bradley Hand;
-    font-size: 1.8em;
+    font-family: Varela Round;
+    font-size: 1.5em;
     font-weight: bold;
     color: white;
 }
